@@ -1,0 +1,34 @@
+{
+  "intro": "Hej",
+  "calendly": {
+    "colorButton": "#00a2ff",
+    "colorText": "#ffffff",
+    "label": "Book a call",
+    "username": "cornatul"
+  },
+  "heroPhoto": {
+    "src": "https://avatars.githubusercontent.com/u/2276408?v=4",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Stefan",
+  "subtitle": {
+    "prefix": "a Senior Software Engineer from London, UK. Currently working at ",
+    "highlight": "Lzo Media",
+    "suffix": ".",
+    "link": "https://www.lzomedia.com/",
+    "linkText": "Lzo Media",
+    "linkTarget": "_blank",
+    "linkRel": "noopener noreferrer"
+  },
+
+  "description": "",
+
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

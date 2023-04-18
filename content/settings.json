@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https:/lzomedia.com",
+    "title": "Senior Developer London",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "author": "Stefan Izdrail",
+    "avatar": "../content/images/gatsby.png",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "behance": "https://behance.com",
+      "github": "https://github.com/cornatul",
+      "medium": "https://cornatul.medium.com",
+      "linkedin": "https://www.linkedin.com/in/cornatul/",
+      "mail": "mailto:stefan@LzoMedia.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "LzoMedia" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "https://resume.io/r/XQt2reK8y"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": true,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": true
+    }
+  }
+}
