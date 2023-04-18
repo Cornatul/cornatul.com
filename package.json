@@ -14,6 +14,7 @@
   "dependencies": {
     "gatsby": "^5.0.1",
     "gatsby-theme-portfolio-minimal": "latest",
+    "gatsby-transformer-inline-svg": "^1.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
