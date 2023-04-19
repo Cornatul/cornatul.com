@@ -8,8 +8,8 @@
       "tags": ["NLP", "Laravel", "React", "Python"],
       "image": {
         "src": "../../images/newsai.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "alt": "learn more about news.ai",
+        "linkTo": "https://github.com/cornatul/news.ai"
       },
       "links": [
         {
@@ -21,6 +21,23 @@
     {
       "visible": true,
       "category": "🧰 Mobile App",
+      "title": "Bmw Tutorials",
+      "description": "BMW Tutorials is a mobile application that allows BMW owners to learn how to perform basic maintenance tasks on their vehicles. The app is built with IonicJS and uses the YouTube API, Cloudflare Workers, Firebase.",
+      "tags": ["IonicJS", "Cloudflare Workers", "Firebase", "YouTube API"],
+      "image": {
+        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/cornatul/app.bmwtutorials.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🧰 Wordpress Theme",
       "title": "Bmw Tutorials",
       "description": "BMW Tutorials is a mobile application that allows BMW owners to learn how to perform basic maintenance tasks on their vehicles. The app is built with IonicJS and uses the YouTube API, Cloudflare Workers, Firebase.",
       "tags": ["IonicJS", "Cloudflare Workers", "Firebase", "YouTube API"],
